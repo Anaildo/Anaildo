@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Olá eu sou <a  href="https://https://www.linkedin.com/in/anaildo-silva-56a444281/">Anaildo Silva</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<!--
-**Anaildo/Anaildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 20 anos, sou graduando em Engenharia de Software na Universidade Federal do Ceará e técnico em informática. Estou focado em aperfeiçoar meu perfil profissional e desenvolver minhas habilidades na área do desenvolvimento.
 
-Here are some ideas to get you started:
+## Habilidades 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estas são algumas das principais tecnologias que utilizo:
+
+Linguagens e Tecnologias:
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,html,css,javascript,typescript,nodejs,react,&theme=dark&perline=15)](https://skillicons.dev)
+
+Utilidades:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,electron,figma,vscode,git,idea&theme=dark&perline=15)](https://skillicons.dev)
