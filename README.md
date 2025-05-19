@@ -1,3 +1,4 @@
+<img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
 <h1>Olá, me chamo Anaildo! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Tenho 20 anos, sou graduando em Engenharia de Software na Universidade Federal do Ceará e técnico em informática. Estou focado em aperfeiçoar meu perfil profissional e desenvolver minhas habilidades na área do desenvolvimento.
