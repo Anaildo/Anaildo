@@ -1,4 +1,4 @@
-<h1>Olá eu sou <a  href="https://https://www.linkedin.com/in/anaildo-silva-56a444281/">Anaildo Silva</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Olá me chamo Anaildo <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Tenho 20 anos, sou graduando em Engenharia de Software na Universidade Federal do Ceará e técnico em informática. Estou focado em aperfeiçoar meu perfil profissional e desenvolver minhas habilidades na área do desenvolvimento.
 
